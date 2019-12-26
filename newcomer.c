@@ -6,11 +6,12 @@ int main(){
   int x;
   char number[1][5]=[
   ];
-  for(i=0; i<x; i++)
+  for(i=0; i<x; i++){
   printf("enter your name = ");
   scanf("%c", &a);
   printf("%c", a);
   printf("enter a number = ");
   scanf("%d", &numbers);
   printf("%d" numbers);
+  }
 }
