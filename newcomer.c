@@ -12,6 +12,6 @@ int main(){
   printf("%c", a);
   printf("enter a number = ");
   scanf("%d", &numbers);
-  printf("%d" numbers);
+  printf("%d", numbers);
   }
 }
