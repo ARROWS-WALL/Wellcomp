@@ -10,7 +10,7 @@ int main(){
   printf("enter your name = ");
   scanf("%c", &name);
   printf("%c", name);
-  printf("enter a number = ");
+  printf("enter a number = ", number);
   scanf("%d", &numbers);
   printf("%d", numbers);
   }
