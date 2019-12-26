@@ -7,7 +7,7 @@
   ];
 int main(){
   for(i=0; i<x; i++){
-  printf("enter your name = ");
+  printf("enter your name = ", name);
   scanf("%c", &name);
   printf("%c", name);
   printf("enter a number = ", number);
